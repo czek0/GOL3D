@@ -5,7 +5,7 @@ This is an implementation of the 3D version of Conway's Game of Life, a cellular
 
 
 ## Demo
-<video src="GOL3D.mp4" width="320" height="240" controls></video>
+<video src="/GOL3D.mp4" width="320" height="240" controls></video>
 
 
 ## Files
