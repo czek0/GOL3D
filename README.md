@@ -5,7 +5,7 @@ This is an implementation of the 3D version of Conway's Game of Life, a cellular
 
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7QTF02Zqw7Q?si=ZtSjIaiJEHzGsrXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U] "Now in Android: 55")]
 
 ## Files
 - `conway.py`: This file contains the `Game` class, which implements the logic of the game and provides methods for visualization and animation.
